@@ -1,18 +1,21 @@
+# SiriusXM Service Activation Guide
 
-Request a 3 month trial activation of your sirius xm service for free. 
+## Request a 3-Month Trial Activation
 
-If I have already loaded yours but it dosent work use the following link and request another signal: 
+Request a 3-month trial activation of your SiriusXM service for free.
 
-https://care.siriusxm.com/subscribe/refresh-signal/unauthenticated-landing-page
+If I already loaded it for you but it hasn't worked, use the following link to request another signal:
 
-private method
-==============
-It seems Sirius has been patching a lot of ways lately so I'll keep this private. If you want to be activated, make an issue with your radio id and car brand both (DO NOT SHARE VIN PUBLICLY) and I'll do it free of charge. If ANYONE tells you to pay them or 'donate' to them first it's most likely a scam. There is no garuntees this will work. I did it twice with my Mom and Dad's cars and it did, but it may not for specific cases.
+[Refresh Signal Link](https://care.siriusxm.com/subscribe/refresh-signal/unauthenticated-landing-page)
 
-terms
-=====
-You accept this may work more than one but less than two times in the event of a patch. Do not badger for activation requests. Do not ask to share activation sattelite method 
+## Private Method
 
-internet sxm method
-===================
-Root your device and SXM app with lucky patcher you clone it. Get another free trial thru a secondary or burner Gmail account
+It appears that SiriusXM has been frequently updating their systems, so I'll keep this method private. If you wish to be activated, please create an issue with your radio ID and car brand (DO NOT SHARE YOUR VIN PUBLICLY), and I will assist you free of charge. Be cautious of anyone asking for payment or donations upfront, as this is likely a scam. There is no guarantee that this method will work for everyone. I have successfully used it for both my Mom and Dad's cars, but results may vary for specific cases.
+
+## Terms
+
+Please note that this method may work more than once but less than twice, especially if SiriusXM implements new patches. Avoid repeatedly requesting activations. Additionally, do not ask me to share the activation satellite method.
+
+## Internet SXM Method
+
+Root your device and then clone the SXM app using Lucky Patcher. Obtain another free trial by using a secondary or burner Gmail account.
