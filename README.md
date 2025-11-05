@@ -12,7 +12,7 @@ If I already loaded it for you but it hasn't worked, use the following link to r
 
 ## Private Method
 
-It appears that SiriusXM has been frequently updating their systems, so I'll keep this method private. NEEVR SHARE YOUR VIN PUBLICLY, I will assist you free of charge. Be cautious of anyone asking for payment or donations upfront, as this is likely a scam. However, this repo is not meant to attack anyone doing that, but provide an alternative. Who knows, maybe they've found a better method.
+It appears that SiriusXM has been frequently updating their systems, so I'll keep this method private. NEVER SHARE YOUR VIN PUBLICLY, I will assist you free of charge. Be cautious of anyone asking for payment or donations upfront, as this is likely a scam. However, this repo is not meant to attack anyone doing that, but provide an alternative. Who knows, maybe they've found a better method.
 
 There is no guarantee that this method will work for everyone. I have successfully used it for both my Mom and Dad's cars, but results may vary for specific cases.
 
