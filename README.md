@@ -3,7 +3,7 @@ Request a 3 month trial activation of your sirius xm service for free.
 
 private method
 ==============
-It seems Sirius has been patching a lot of ways lately so I'll keep this private. If you want to be activated, make an issue with your radio id (DO NOT SHARE VIN PUBLICLY) and I'll do it free of charge. If ANYONE tells you to pay them or 'donate' to them first it's most likely a scam. 
+It seems Sirius has been patching a lot of ways lately so I'll keep this private. If you want to be activated, make an issue with your radio id and car brand both (DO NOT SHARE VIN PUBLICLY) and I'll do it free of charge. If ANYONE tells you to pay them or 'donate' to them first it's most likely a scam. There is no garuntees this will work. I did it twice with my Mom and Dad's cars and it did, but it may not for specific cases.
 
 terms
 =====
