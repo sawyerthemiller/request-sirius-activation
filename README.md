@@ -2,6 +2,8 @@
 
 If you wish to be activated, please create an issue with your radio ID and car brand. (IMPORTANT) If this is my second time activating it for you, please state that in the issue. 
 
+Sirius Servers Status - **Down for maintenance**
+
 ## Request a 3-Month Trial Activation
 
 Request a 3-month trial activation of your SiriusXM service for free.
