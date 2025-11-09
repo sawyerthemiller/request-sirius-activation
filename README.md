@@ -1,5 +1,7 @@
 # SiriusXM Service Activation Guide
 
+![Homer Simpson Approved](https://i.ibb.co/pjJKZVfn/latest.jpg)
+
 This is ONLY a proof of concept. I do not condone piracy or illegal activities. Please purchase SXM if you intend to use it on a regular basis. 
 
 If you wish to be activated, please create an issue with your radio ID and car brand. (IMPORTANT) If this is my second time activating it for you, please state that in the issue. 
