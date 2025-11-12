@@ -1,5 +1,7 @@
 # SiriusXM Service Activation Guide
 
+**THIS MAY NOT WORK ANYMORE AND I APOLOGISE**
+
 <a href="https://i.ibb.co/pjJKZVfn/sxm.jpg">"Homer Simpson Approved"</a>
 
 This is ONLY a proof of concept. I do not condone piracy or illegal activities. Please purchase SXM if you intend to use it on a regular basis. 
