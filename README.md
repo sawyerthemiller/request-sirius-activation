@@ -4,7 +4,7 @@
 
 It seems there may be a 'blacklist' flag and some older methods of activating without payment might have tripped it. And I'm looking into it... Some people claim to have better methods. I invited a few to collab on this repo but was ignored. Sigh. Feel free to ask them about it, as I am for now not have enough time due to university to research new things. Thanks for stopping by.
 
-<a href="https://i.ibb.co/pjJKZVfn/sxm.jpg">"Homer Simpson Approved"</a>
+<a href="https://i.ibb.co/pjJKZVfn/sxm.jpg">"Homer Simpson Approved"</a> -- Meme suggested by a friend, does not show my intent
 
 This is ONLY a proof of concept. I do not condone piracy or illegal activities. Please purchase SXM if you intend to use it on a regular basis. 
 
