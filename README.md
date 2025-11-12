@@ -2,6 +2,8 @@
 
 **THIS MAY NOT WORK ANYMORE AND I APOLOGISE**
 
+It seems there may be a 'blacklist' flag and some older methods of activating without payment might have tripped it. Looking into it...
+
 <a href="https://i.ibb.co/pjJKZVfn/sxm.jpg">"Homer Simpson Approved"</a>
 
 This is ONLY a proof of concept. I do not condone piracy or illegal activities. Please purchase SXM if you intend to use it on a regular basis. 
