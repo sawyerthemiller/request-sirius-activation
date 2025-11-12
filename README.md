@@ -1,6 +1,6 @@
 # SiriusXM Service Activation Guide
 
-**THIS MAY NOT WORK ANYMORE AND I APOLOGISE**
+**THIS MAY NOT WORK ANYMORE AND I APOLOGISE. I CAN STILL TRY**
 
 It seems there may be a 'blacklist' flag and some older methods of activating without payment might have tripped it. And I'm looking into it... Some people claim to have better methods. I invited a few to collab on this repo but was ignored. Sigh. Feel free to ask them about it, as I am for now not have enough time due to university to research new things. Thanks for stopping by.
 
