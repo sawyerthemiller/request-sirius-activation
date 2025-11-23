@@ -14,9 +14,9 @@ Sirius Servers Status - **Online**
 
 ## Request a 3-Month Trial Activation
 
-Request a 3-month trial activation of your SiriusXM service for free.
+Request a 3-month trial activation of your SiriusXM service for free FIRST by making an issue.
 
-If I already loaded it for you but it hasn't worked, use the following link to request another signal:
+THEN, if I already loaded it for you but it hasn't worked, use the following link to request another signal:
 
 [Refresh Signal Link](https://care.siriusxm.com/subscribe/refresh-signal/unauthenticated-landing-page)
 
